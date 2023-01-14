@@ -1,0 +1,9 @@
+<svg class="icon">
+  <use xlink:href="#Rakuten"></use>
+</svg><svg class="icon">
+  <use xlink:href="#Target"></use>
+</svg><svg class="icon">
+  <use xlink:href="#Walmart"></use>
+</svg><svg class="icon">
+  <use xlink:href="#Ebay"></use>
+</svg>

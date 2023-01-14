@@ -1,0 +1,77 @@
+.bg-action
+{
+background:url('css-sprite-combined.png') 0px -158px;
+width:300px;height:256px;
+display:inline-block;
+}
+
+.bg-airpod
+{
+background:url('css-sprite-combined.png') -300px -158px;
+width:300px;height:256px;
+display:inline-block;
+}
+
+.bg-camera
+{
+background:url('css-sprite-combined.png') -600px -158px;
+width:300px;height:256px;
+display:inline-block;
+}
+
+.bg-drone
+{
+background:url('css-sprite-combined.png') -900px -158px;
+width:300px;height:256px;
+display:inline-block;
+}
+
+.bg-gear
+{
+background:url('css-sprite-combined.png') -1200px -144px;
+width:404px;height:270px;
+display:inline-block;
+}
+
+.bg-lights
+{
+background:url('css-sprite-combined.png') -1604px -158px;
+width:300px;height:256px;
+display:inline-block;
+}
+
+.bg-main-camera
+{
+background:url('css-sprite-combined.png') -1904px -0px;
+width:440px;height:414px;
+display:inline-block;
+}
+
+.bg-mic
+{
+background:url('css-sprite-combined.png') -2344px -158px;
+width:300px;height:256px;
+display:inline-block;
+}
+
+.bg-setup
+{
+background:url('css-sprite-combined.png') -2644px -158px;
+width:300px;height:256px;
+display:inline-block;
+}
+
+.bg-single-light
+{
+background:url('css-sprite-combined.png') -2944px -158px;
+width:300px;height:256px;
+display:inline-block;
+}
+
+.bg-tripod
+{
+background:url('css-sprite-combined.png') -3244px -158px;
+width:300px;height:256px;
+display:inline-block;
+}
+
